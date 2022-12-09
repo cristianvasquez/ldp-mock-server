@@ -10,10 +10,10 @@
     "author": "Cristian Vasquez",
     "license": "MIT",
     "dependencies": {
-        "express": "^4.16.4",
+        "express": "^4.18.2",
         "express-json-errors": "^1.0.5",
-        "glob": "^7.1.3",
-        "n3": "^1.0.3",
+        "glob": "^8.0.3",
+        "n3": "^1.16.3",
         "n3-parser.js": "^0.1.1",
         "stream-replace": "^1.0.0"
     }
